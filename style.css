@@ -1,0 +1,140 @@
+/* h1
+{
+    font-family: fantasy;
+    color: brown;
+} */
+/* font size px */
+/* p
+{
+    font-size: 16px;
+    font-size: 200%;
+} */
+
+/* font size % */
+/* p
+{
+    font-size: 200%;
+} */
+
+/* default value */
+/* p
+{
+    color: brown;
+    font-size: xx-large;
+} */
+
+/* font face */
+/* @font-face
+{
+    font-family: 'my-font';
+    src: url('./fonts/ArchivoBlack-Regular.ttf');
+}
+h1
+{
+    font-family: my-font;
+} */
+
+
+/* font weigth */
+/* h1
+{
+font-weight: lighter;
+font-weight: 900;
+} */
+
+/* font style */
+/* #normal
+{
+    font-style: normal;
+}
+#italic
+{
+    font-style: italic;
+}
+#oblique
+{
+    font-style: oblique;
+} */
+
+/* text Transform */
+/* #upercase
+{
+    text-transform: uppercase;
+}
+#lowercase
+{
+    text-transform: lowercase;
+}
+#capitilized
+{
+    text-transform: capitalize;
+} */
+
+
+ /* text decoration */
+/* #underline
+{
+    text-decoration: underline;
+}
+#overline
+{
+    text-decoration: overline;
+}
+#linethrough
+{
+    text-decoration: line-through;
+} */
+
+
+/* line height */
+/* #line-height
+{
+    line-height: 100px;
+} */
+
+/* word spacing */
+/* h1
+{
+word-spacing: 50px;
+} */
+
+/* letter spacing */
+/* h2
+{
+letter-spacing: 50px;
+} */
+
+/* text align */
+/* h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: justify;
+} */
+
+/* verticle alignment */
+/* img
+{
+    vertical-align: text-top;
+    vertical-align: text-bottom;
+    vertical-align: middle;
+} */
+
+/* text-indent */
+/* p
+{
+    text-indent: 160px;
+    text-align: justify;
+} */
+
+/* First Letter line */
+/* p::first-line
+{
+    color: red;
+}
+p::first-letter
+{
+    color: red;
+} */
