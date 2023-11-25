@@ -138,3 +138,59 @@ p::first-letter
 {
     color: red;
 } */
+
+/* styling links */
+/* a:links
+{
+color: chocolate;
+}
+a:visited
+{
+color:green;
+} */
+
+/*Responding to the users */
+/* hovers */
+/* input.btn:hover{
+    background-color: wheat;
+}
+input.btn:active{
+    background-color: violet;
+} */
+/* input.btn:focus{
+background-color: blueviolet;
+}
+input.text:focus{
+    background-color: cadetblue;
+} */
+
+
+/* attribute selectors */
+/* existence */
+/* h1[name]{
+    color: cadetblue;
+} */
+
+/* equility */
+/* h1[name="Hi"]
+{
+    color: coral;
+} */
+
+/* SPACE */
+/* h1[name~='hello']
+{
+    color: darkblue;
+} */
+
+/* Prefix */
+/* h1[name^=hel]
+{
+    color: red;
+} */
+
+/* subsstring */
+h1[name*='el']
+{
+    background-color: salmon;
+}
